@@ -15,7 +15,7 @@ function addBook() {
     <th>${title}</th>
     <th>${author}</th>
     <th>${pages}</th>
-    <th><input type="checkbox" data-toggle="toggle"></th>
+    <th><input type="checkbox"></th>
   </tr>
 </thead>
 `;
